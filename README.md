@@ -11,6 +11,6 @@ Using python and discord.py I was able to add a few features to the discord bot.
 - /leave # leaves a voice channel
 - /play URL # plays the music in the youtube link provided, given that the bot is in the voice channel
 - /pause /stop # pause and stops the music playing
-- /queue # currently working on this feature. If more add URLs to play, the bot will add them to the queue.
+- /queue # currently working on this feature. If more URLs are requested to play while the bot is currentply playing music, the bot will add them to the queue.
 
 Chat bot that can join voice chats and play youtube music (Python, Discord.py, FFmpeg, youtube_dl)
