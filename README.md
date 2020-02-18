@@ -1,9 +1,9 @@
 DiscordBot
 
 I was very interested in how Slack and Discord bot are built. I use discord quite often for gaming, for school and for chatting with friends
-and building a discord bot would be very useful for me!
+so I decided to build a chat bot for discord!
 
-Using pythong and discord.py I was able to add a few features to the discord bot. Current commands are:
+Using python and discord.py I was able to add a few features to the discord bot. Current commands are:
 
 - /hello # replies to the user
 - /goodbye # replies to the user
